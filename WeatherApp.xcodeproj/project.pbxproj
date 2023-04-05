@@ -168,7 +168,6 @@
 		C4DA045929C5CD7E009B7EB3 /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
-				C4DA04BF29C76655009B7EB3 /* Resources */,
 				C4DA04A129C61C0D009B7EB3 /* Other */,
 				C4DA048D29C6169F009B7EB3 /* Home */,
 				C4DA048A29C5CF30009B7EB3 /* IntroductionPages */,
@@ -333,13 +332,6 @@
 				C4DA04BD29C75DA3009B7EB3 /* Constants.swift */,
 			);
 			path = Helper;
-			sourceTree = "<group>";
-		};
-		C4DA04BF29C76655009B7EB3 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		EDD353918D4170C50F0D2BB9 /* Frameworks */ = {
