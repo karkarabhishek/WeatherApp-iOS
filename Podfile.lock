@@ -1,0 +1,22 @@
+PODS:
+  - GooglePlaces (7.4.0)
+  - SDWebImage (5.13.1):
+    - SDWebImage/Core (= 5.13.1)
+  - SDWebImage/Core (5.13.1)
+
+DEPENDENCIES:
+  - GooglePlaces (= 7.4.0)
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - GooglePlaces
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  GooglePlaces: 544e908d94860bf6f8fc1865b80d2c7eb6b5f937
+  SDWebImage: fb26a455eeda4c7a55e4dcb6172dbb258af7a4ca
+
+PODFILE CHECKSUM: 1865b4968af7d118d30b1236f20bab65b8039e90
+
+COCOAPODS: 1.12.0
