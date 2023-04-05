@@ -1,8 +1,7 @@
 
-# Project Title
+# Weather App
 
-A brief description of what this project does and who it's for
-
+This repository contains a simple weather app built in Swift using MVVM architecture. The app fetches weather data from OpenWeatherMap API and uses Google Places API for autocomplete search functionality.
 
 ## Features
 - View weather data for a searched city
@@ -18,7 +17,7 @@ A brief description of what this project does and who it's for
 1. Clone the repository:
 
 ```
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/karkarabhishek/WeatherApp-iOS.git
 ```
 2. Open the Xcode project file:
 ```
